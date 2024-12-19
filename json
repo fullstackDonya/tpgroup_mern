@@ -47,3 +47,22 @@
     "createdAt": "2024-12-18T12:00:00.000Z",
     "author": "67629db2c8932cc9c64a17b4"  
   }
+______________________________________
+
+{
+  "title": "Vélo tout terrain en bon état",
+  "description": "VTT d'occasion, idéal pour les balades en montagne. Taille adulte, peu utilisé.",
+  "price": 150,
+  "category": "Véhicules",
+  "location": "Paris, France",
+  "images": [
+    "/uploads/images/image1.jpg",
+    "/uploads/images/image2.jpg"
+  ],
+  "contactInfo": {
+    "phone": "0123456789",
+    "email": "contact@example.com"
+  },
+  "isSold": false,
+  "author": "64c6d8e4e456a3c1b12ef4ab"
+}
